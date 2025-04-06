@@ -55,6 +55,8 @@ sudo dsnifff
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+## OUTPUT:
+![Screenshot 2025-04-06 193344](https://github.com/user-attachments/assets/c0876dfc-3671-40cb-8954-5bb0a86cecf7)
 
 
 ## RESULT:
